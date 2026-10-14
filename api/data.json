@@ -1,0 +1,5 @@
+[
+    {"tag": "FT-101", "type": "Flow Transmitter", "value": 45.2, "unit": "m3/h", "status": "Active"},
+    {"tag": "TT-202", "type": "Temperature Transmitter", "value": 180.0, "unit": "°C", "status": "Active"},
+    {"tag": "FIC-303", "type": "Flow Indicator Controller", "value": 50.0, "unit": "%", "status": "Manual"}
+]

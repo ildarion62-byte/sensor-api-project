@@ -1,0 +1,8 @@
+{
+    "name": "local/sensor-api",
+    "description": "Simple API for automation sensors",
+    "type": "project",
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
